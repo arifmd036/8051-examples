@@ -1,3 +1,5 @@
+//timer programming 
+
 #include <mcs51/8051.h>
 
 unsigned char count = 0;
